@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HornetQ Messenger</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="url">URL</string>
+    <string name="remember">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="send">Send</string>
+</resources>

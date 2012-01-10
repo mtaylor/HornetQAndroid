@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="messageTitle">#a60000</color>
+    <color name="messageLine">#ECECEC</color>
+</resources>
